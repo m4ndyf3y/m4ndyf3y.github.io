@@ -1,3 +1,5 @@
 # This file is for adding themes to your GitHub Pages Site
-name: Mandy Fey
-theme: minima
+name: m4ndyf3y GitHub Site
+remote_theme: pages-theme/Cayman@v0.2.0
+plugins: jekyll-remote-theme # add this to the plugins list if you already have one
+
